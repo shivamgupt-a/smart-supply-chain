@@ -1,0 +1,5 @@
+Model,MAPE,MAE,Status
+Naive,36.97,,Baseline
+ARIMA,,,Failed
+Prophet,20.388143995211706,896.0074009381074,Success
+Prophet + Promotions,10.290621099746515,443.3031786867906,Best

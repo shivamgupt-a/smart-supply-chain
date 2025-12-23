@@ -1,0 +1,29 @@
+{
+    "dataset": {
+        "total_stores": 1115,
+        "date_range": "2013-01-01 to 2015-07-31",
+        "total_records": 1017209,
+        "open_store_records": 844392
+    },
+    "sales": {
+        "avg_daily_sales_per_store": 6955.514290755952,
+        "total_sales": 5873180623.0,
+        "min_sales": 0.0,
+        "max_sales": 41551.0
+    },
+    "seasonality": {
+        "best_month": 12,
+        "best_day_of_week": 7,
+        "monthly_variation_pct": 31.507875697333887,
+        "weekly_variation_pct": 39.99910762602275
+    },
+    "promotion": {
+        "sales_lift_pct": 38.77071352874009,
+        "days_with_promo_pct": 44.63519313304721
+    },
+    "correlations": {
+        "sales_vs_customers": 0.8235967321975237,
+        "sales_vs_promo": 0.3681452591849852,
+        "sales_vs_day_of_week": -0.17873635771605254
+    }
+}
